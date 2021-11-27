@@ -1,15 +1,17 @@
 #ButtonCanalLexInMinecraft1 {
 	background-color: #57ff57;
 	border-color: #57ff57;
+	height: 50px
 }
 #ButtonCanalLexInMinecraft2 {
 	background-color: #673ab7;
 	border-color: #673ab7;
+	height: 50px
 }
 #ButtonDonate { 
     background-color: #eeff46;
 	border-color: #ffe500;
-	height: 50
+	height: 50px
 }
 body {
 	background-color: #84c33c;
